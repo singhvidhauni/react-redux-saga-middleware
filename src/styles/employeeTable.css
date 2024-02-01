@@ -1,0 +1,6 @@
+.employee-table {
+  max-height:80vh;
+  overflow-y: auto;
+  border: 1px solid;
+  margin-bottom: 30px;
+}
