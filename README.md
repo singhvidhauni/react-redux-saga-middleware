@@ -32,7 +32,7 @@ Start by cloning this repository to your local machine using the following comma
 
 ```
 git clone https://github.com/singhvidhauni/react-redux-saga-middleware.git
-> cd react-redux-emp-mgmt
+> cd react-redux-saga-middleware
 > cd client
 ```
 Install Dependencies: Navigate to the client directory and install the required dependencies:
@@ -43,7 +43,7 @@ client> npm start
 
 To run the json-server based API server. 
 ```
-> cd react-redux-emp-mgmt
+> cd react-redux-saga-middleware
 > cd api
 > npm install dependencies
   api > npm start
