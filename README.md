@@ -55,4 +55,5 @@ To run the json-server based API server.
 - react-router-dom (for route-based navigation)
 - JSON Server (for the server API)
   Feel free to use this repository as a reference or starting point for your own projects involving React, Redux, Redux Saga, react-router-dom, and RESTful APIs. Happy coding!
+![image](https://github.com/singhvidhauni/react-redux-saga-middleware/assets/4363033/e4ac330a-0cfc-49db-b79e-1758a1f452fa)
 
