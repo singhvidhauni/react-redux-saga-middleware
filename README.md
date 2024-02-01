@@ -1,15 +1,16 @@
+
 # React Redux CRUD Demo with Async Actions and Routing
 
-Welcome to the React Redux CRUD Demo repository! This project provides a comprehensive demonstration of a React web application that incorporates CRUD (Create, Read, Update, Delete) operations using Redux for state management. Additionally, it features Redux Thunk for handling asynchronous actions and react-router-dom for seamless route-based navigation.
+Welcome to the React Redux CRUD Demo repository! This project provides a comprehensive demonstration of a React web application that incorporates CRUD (Create, Read, Update, Delete) operations using Redux for state management. Additionally, it features Redux Saga for handling asynchronous actions and react-router-dom for seamless route-based navigation.
 
 ## Key Features:
 
 ### React Components: 
 Explore a well-organized React component structure, showcasing the creation of user interfaces for efficient interaction.
 
-### Redux State Management with Thunk:
+### Redux State Management with Saga:
 
-Witness the power of Redux and Redux Thunk in managing the application's state, enabling both synchronous and asynchronous state changes.
+Witness the power of Redux and Redux Saga in managing the application's state, enabling both synchronous and asynchronous state changes.
 
 ### CRUD Operations:
 
@@ -30,7 +31,7 @@ Implement smooth navigation through different sections of the application using 
 Start by cloning this repository to your local machine using the following command:
 
 ```
-git clone https://github.com/singhvidhauni/react-redux-emp-mgmt.git
+git clone https://github.com/singhvidhauni/react-redux-saga-middleware.git
 > cd react-redux-emp-mgmt
 > cd client
 ```
@@ -50,7 +51,8 @@ To run the json-server based API server.
 ### Technologies Used:
 
 - React
-- Redux with Redux Thunk (for asynchronous actions)
+- Redux with Redux Saga (for asynchronous actions)
 - react-router-dom (for route-based navigation)
 - JSON Server (for the server API)
-  Feel free to use this repository as a reference or starting point for your own projects involving React, Redux, Redux Thunk, react-router-dom, and RESTful APIs. Happy coding!
+  Feel free to use this repository as a reference or starting point for your own projects involving React, Redux, Redux Saga, react-router-dom, and RESTful APIs. Happy coding!
+
